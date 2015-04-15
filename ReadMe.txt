@@ -1,0 +1,1 @@
+Examples describing use of JPA and JWS
